@@ -17,6 +17,7 @@
 </table>
 </body>
 </center>
+
 @include('inc.footer')
 
 </ul>

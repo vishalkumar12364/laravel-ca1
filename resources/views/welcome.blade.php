@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Put URL:http://127.0.0.1:8000/project
                 </div>
 
                 <div class="links">

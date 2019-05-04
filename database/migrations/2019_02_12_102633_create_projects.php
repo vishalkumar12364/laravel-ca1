@@ -14,10 +14,10 @@ class CreateProjects extends Migration
     public function up()
     {
         Schema::create('projects', function (Blueprint $table) {
-            $table->increments('Productid');
-            $table->text("productName");
-            $table->text("Description");
-            $table->string("Price");
+           $table->increments('id');
+            $table->string("title");
+            $table->text("description");
+            $table->timestamps();
             
             
         });
